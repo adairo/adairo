@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adairo" alt="adairo" /></a> </p>
 
-- 🔭 I’m currently working on [Adairos](system.adairos.page) 
+- 🔭 I’m currently working on [Adairos](https://system.adairos.page) 
 
 - 🌱 I’m currently learning **Functional programming**
 
