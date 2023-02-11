@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adairo" alt="adairo" /></a> </p>
 
-- 🔭 I’m currently working on [Kanboard](kanban-nextjs-prisma.vercel.app/)
+- 🔭 I’m currently working on [Adairos](system.adairos.page) 
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **Functional programming**
 
-- 👯 I’m looking to collaborate on [Chakra UI](chakra-ui.com/)
+- 👯 I’m contributing to [Mozilla developer network](https://github.com/mdn/translated-content)
 
 - 💬 Ask me about **React, NextJS and Typescript**
 
